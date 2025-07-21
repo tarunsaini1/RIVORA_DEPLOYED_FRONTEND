@@ -19,7 +19,7 @@ RIVORA_DEPLOYED_FRONTEND-main/
 ├── tailwind.config.js        # Tailwind configuration
 ├── vite.config.js            # Vite bundler config
 └── README.md                 # You're reading it!
-
+```
 
 
 ---
